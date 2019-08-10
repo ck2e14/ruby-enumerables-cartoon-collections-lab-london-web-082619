@@ -37,10 +37,7 @@ def find_the_cheese(strings_array)
     end
     i += 1 
   end
-  return nil
+  nil
 end
-
-
-
  # the array below is here to help
   cheese_types = ["cheddar", "gouda", "camembert"]
